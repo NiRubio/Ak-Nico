@@ -22,16 +22,16 @@
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value=""/>
                     <attribute id="FileSize" type="uint64" value="0"/>
-                    <attribute id="Folder" type="LSString" value="Ak-Nico_c8e424a0-9b9c-5b60-36a0-73f036b37dae"/>
+                    <attribute id="Folder" type="LSString" value="AkaNico_f5fd24b8-b833-b231-c233-2c9c99d75b62"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Ak-Nico"/>
+                    <attribute id="Name" type="LSString" value="AkaNico"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
-                    <attribute id="UUID" type="FixedString" value="c8e424a0-9b9c-5b60-36a0-73f036b37dae"/>
+                    <attribute id="UUID" type="FixedString" value="f5fd24b8-b833-b231-c233-2c9c99d75b62"/>
                     <attribute id="Version64" type="int64" value="36028797018963968"/>
                     <children>
                         <node id="PublishVersion">
